@@ -1,3 +1,4 @@
+
 /* variables */
 
 $lightGrey: #999;
@@ -65,7 +66,7 @@ p {
   font-weight: bold;
   line-height: 1;
   &:hover {
-    color: lightGrey;
+    color: $lightGrey;
     text-decoration: none;
   }
 }
